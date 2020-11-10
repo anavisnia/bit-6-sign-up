@@ -1,3 +1,4 @@
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/anavisnia/bit-6-sign-up/blob/master/LICENSE)
 # Sign Up
 ### 19 group project
 
