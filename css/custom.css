@@ -1,0 +1,47 @@
+body {
+
+}
+  .container {
+
+  }
+    .left-column {
+
+    }
+      .page-title {
+
+      }
+      .bottom-links {
+
+      }
+      .bottom-links > .link {
+
+        }
+        .bottom-links > .text {
+
+        }
+    .right-column {
+
+    }
+      .close {
+      }
+      .form {
+
+      }
+        from-row {
+
+        }
+          .label {
+
+          }
+          .input {
+
+          }
+          .btn {
+
+          }
+          from-row > .text {
+
+          }
+          from-row > .link {
+
+          }
